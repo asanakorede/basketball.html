@@ -5,7 +5,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
     height: 150vh;
-   image-resolution: 500;
+    image-resolution: 500;
 }
 
 
@@ -69,7 +69,7 @@ p {
     font-size: 70px;
     color: crimson;
     padding-left: 60px;
-     padding-bottom: 70px; 
+    padding-bottom: 70px;
     text-align: center;
 }
 
@@ -82,3 +82,68 @@ span {
     padding-left: 50px;
 }
 
+.byb {
+    background-image: url(../img/23.webp);
+    height: 30vh;
+}
+
+.byb-txt {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 70px;
+    padding-top: 30px;
+    margin-bottom: 100px;
+}
+
+.byb-sp {
+    font-size: 30px;
+    font-weight: 700;
+    padding-right: 350px;
+    padding-bottom: 330px;
+}
+
+.ars {
+    background-image: url(../img/pexels-photo-1.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+}
+
+.ars-yt {
+    padding-left: 50px;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+
+.ars-a {
+    text-decoration: none;
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cpt {
+    background-image: url(../img/pexels-photo-268.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    
+}
+
+.cpt-yt{
+    display: flex;
+    justify-content: space-between;
+}
+
+.cpt-img{
+    width: 10px;
+}
+
+.cpt-text button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cpt-btn{
+    padding-bottom: 40px;
+}
